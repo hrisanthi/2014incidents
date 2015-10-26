@@ -1,0 +1,75 @@
+.container{
+    max-width: 600px;
+}
+
+
+.holder{
+    height: 80%;
+    width: 80%;
+    position: relative;
+}
+
+h1{
+  color: #53aed2;
+}
+
+
+.Bladen, .Columbus, .Cumberland, .Harnett, .Hoke, .Lee, .Moore, .Robeson, .Sampson, .Scotland{
+  position: absolute;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+}
+
+
+.Bladen{
+    top: 60%;
+    right: 40%;
+
+}
+
+.Columbus{
+    top: 78%;
+    right: 45%;
+}
+
+.Cumberland{
+    top:43%;
+    right: 50%;
+}
+
+.Harnett{
+    top: 18%;
+    right: 52%;
+}
+
+.Hoke{
+    top: 38%;
+    right: 70%;
+
+}
+
+.Lee{
+    top: 15%;
+    right: 67%;
+}
+
+.Moore{
+    top: 23%;
+    right: 85%;
+}
+
+.Robeson{
+    top: 55%;
+    right: 65%;
+}
+
+.Sampson{
+    top: 46%;
+    right: 30%;
+}
+
+.Scotland{
+    top: 50%;
+    right: 75%;
+}

@@ -1,0 +1,137 @@
+.macMapWeb, .invis_dot1, .invis_dot2, .invis_dot3, .invis_dot4, .invis_dot5, .invis_dot6, .invis_dot7, .invis_dot8, .invis_dot9, .invis_dot10, .invis_dot11, .invis_dot12, .invis_dot13, .invis_dot14, .invis_dot15, .invis_dot16, .invis_dot17, .invis_dot18, .invis_dot19, .invis_dot20, .invis_dot21{
+	background: url(sprites.png) no-repeat;
+}
+
+.macMapWeb{
+	background-position: 0 0;
+	width: 800px;
+	height: 715px;
+}
+
+.invis_dot1{
+	background-position: -75px -108px ;
+	width: 43px;
+	height: 39px;
+	cursor: pointer;
+}
+
+.invis_dot2{
+	background-position: -499px -350px ;
+	width: 43px;
+	height: 39px;
+}
+
+.invis_dot3{
+	background-position: -331px -558px ;
+	width: 43px;
+	height: 39px;
+}
+
+.invis_dot4{
+	background-position: -609px -319px ;
+	width: 43px;
+	height: 39px;
+}
+
+.invis_dot5{
+	background-position: -170px -636px ;
+	width: 43px;
+	height: 39px;
+}
+
+.invis_dot6{
+	background-position: -366px -357px ;
+	width: 43px;
+	height: 39px;
+}
+
+.invis_dot7{
+	background-position: -182px -442px ;
+	width: 43px;
+	height: 39px;
+}
+
+.invis_dot8{
+	background-position: -284px -397px ;
+	width: 43px;
+	height: 39px;
+}
+
+.invis_dot9{
+	background-position: -565px -398px ;
+	width: 43px;
+	height: 39px;
+}
+
+.invis_dot10{
+	background-position: -82px -181px ;
+	width: 43px;
+	height: 39px;
+}
+
+.invis_dot11{
+	background-position: -177px -180px ;
+	width: 43px;
+	height: 39px;
+}
+
+.invis_dot12{
+	background-position: -271px -178px ;
+	width: 43px;
+	height: 39px;
+}
+
+.invis_dot13{
+	background-position: -369px -179px ;
+	width: 43px;
+	height: 39px;
+}
+
+.invis_dot14{
+	background-position: -479px -180px ;
+	width: 43px;
+	height: 39px;
+}
+
+.invis_dot15{
+	background-position: -600px -184px ;
+	width: 43px;
+	height: 39px;
+}
+
+.invis_dot16{
+	background-position: -688px -144px ;
+	width: 43px;
+	height: 39px;
+}
+
+.invis_dot17{
+	background-position: -599px -112px ;
+	width: 43px;
+	height: 39px;
+}
+
+.invis_dot18{
+	background-position: -482px -114px ;
+	width: 43px;
+	height: 39px;
+}
+
+.invis_dot19{
+	background-position: -371px -111px ;
+	width: 43px;
+	height: 39px;
+}
+
+.invis_dot20{
+	background-position: -271px -108px ;
+	width: 43px;
+	height: 39px;
+}
+
+.invis_dot21{
+	background-position: -175px -108px ;
+	width: 43px;
+	height: 39px;
+}
+
